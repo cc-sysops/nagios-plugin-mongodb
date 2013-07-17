@@ -19,7 +19,7 @@
 #
 # USAGE
 #
-# See the README.md
+# See the https://github.com/cc-sysops/nagios-plugin-mongodb/blob/master/README.md
 #
 
 import sys
